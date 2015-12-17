@@ -1,0 +1,2 @@
+This plugin decodes the myproto communication protocol, implemented just to understand the wireshark dissector and to integrate new plugin easily to wireshark.
+
